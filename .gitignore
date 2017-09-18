@@ -1,0 +1,7 @@
+gcp-credentials.json
+.env
+.terraform/
+default-service.json
+terraform.tfstate
+terraform.tfstate.backup
+
